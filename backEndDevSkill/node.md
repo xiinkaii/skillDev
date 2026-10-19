@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" alt="Node.js" />node.js
+# <img src="https://nodejs.org/static/logos/jsIconGreen.svg" width="70" alt="Node.js" /> node.js
 
 ## modules
 ### Local Modules
