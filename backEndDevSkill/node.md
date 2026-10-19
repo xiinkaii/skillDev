@@ -21,6 +21,8 @@ readFile()
 rename()      // Renames File
 Unlink()      // Deletes File
 Exists()
+
+html <span style="color: red;">Red text</span>
 ```
 
 ### Synchronus Function
