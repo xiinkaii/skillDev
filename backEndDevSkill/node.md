@@ -22,7 +22,7 @@ rename()      // Renames File
 Unlink()      // Deletes File
 Exists()
 ```
-html <span style="color: red;">Red text</span>
+<span style="color: #008000;">//Green text</span>
 
 
 ### Synchronus Function
