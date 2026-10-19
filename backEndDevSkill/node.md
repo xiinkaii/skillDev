@@ -22,8 +22,6 @@ rename()      // Renames File
 Unlink()      // Deletes File
 Exists()
 ```
-<span style="color: #008000;">//Green text</span>
-
 
 ### Synchronus Function
 ```
