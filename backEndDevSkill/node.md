@@ -15,15 +15,15 @@ Self-Created Modules
 ## Fs Modules
 ### Asynchronus Function
 ```
-writeFile()   <span style="color:green;">// writes and rewrites File</span>
+writeFile()   // writes and rewrites File
 appendFile()  // Adds things in a File
 readFile()
 rename()      // Renames File
 Unlink()      // Deletes File
 Exists()
-
-html <span style="color: red;">Red text</span>
 ```
+html <span style="color: red;">Red text</span>
+
 
 ### Synchronus Function
 ```
