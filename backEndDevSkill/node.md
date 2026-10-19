@@ -12,3 +12,24 @@ Self-Created Modules
 ```
 ### External Modules [Created by 3rd party & managed by npm]
 
+## Fs Modules
+### Asynchronus Function
+```
+writeFile() 
+appendFile()
+readFile()
+rename()
+Unlink()
+Exists()
+```
+
+### Synchronus Function
+```
+writeFileSync()   
+appendFileSync()
+readFileSync()
+renameSync()
+UnlinkSync()
+ExistsSync() 
+```
+
