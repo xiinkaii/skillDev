@@ -1,4 +1,4 @@
-# ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) node.js
+# ![Node.js] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js" /> node.js
 
 ## modules
 ### Local Modules
