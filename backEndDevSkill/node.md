@@ -15,11 +15,11 @@ Self-Created Modules
 ## Fs Modules
 ### Asynchronus Function
 ```
-writeFile() 
-appendFile()
+writeFile()   // writes and rewrites File
+appendFile()  // Adds things in a File
 readFile()
-rename()
-Unlink()
+rename()      // Renames File
+Unlink()      // Deletes File
 Exists()
 ```
 
