@@ -15,7 +15,7 @@ Self-Created Modules
 ## Fs Modules
 ### Asynchronus Function
 ```
-writeFile()   // writes and rewrites File
+writeFile()   <p style="color:green;">// writes and rewrites File</p>
 appendFile()  // Adds things in a File
 readFile()
 rename()      // Renames File
