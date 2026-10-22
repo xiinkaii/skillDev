@@ -33,3 +33,10 @@ UnlinkSync()
 ExistsSync() 
 ```
 
+## Essential Packages
+```
+nodemon
+body-parser
+
+```
+
